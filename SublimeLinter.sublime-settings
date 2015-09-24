@@ -1,0 +1,57 @@
+{
+    "user": {
+        "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME",
+                    "TODO",
+                    "@todo"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "NOTE",
+                    "README",
+                    "XXX"
+                ]
+            },
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": "style",
+                "excludes": [],
+                "std": []
+            },
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "",
+                "max-line-length": null,
+                "select": ""
+            },
+            "shellcheck": {
+                "@disable": false,
+                "args": [],
+                "exclude": "",
+                "excludes": []
+            },
+            "xmllint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "javascript (babel)": "javascript",
+            "php": "html",
+            "python django": "python",
+            "pythonimproved": "python",
+            "cimproved" : "c++"
+        }
+    }
+}
