@@ -12,6 +12,7 @@
 		"inl",
 		"ipp",
 		"test",
-		"cpp"
+		"cpp",
+		"h"
 	]
 }
