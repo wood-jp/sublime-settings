@@ -11,11 +11,10 @@
 	"drag_text": false,
 	"fallback_encoding": "UTF-8",
 	"font_face": "Hack",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"DocPy",
 		"Makefile",
 		"Markdown",
 		"Vintage"
