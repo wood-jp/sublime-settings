@@ -37,7 +37,7 @@
                 "ignore": "E501",
                 "jobs": "1",
                 "max-complexity": 10,
-                "max-line-length": 120,
+                "max-line-length": null,
                 "select": "",
                 "show-code": false
             },

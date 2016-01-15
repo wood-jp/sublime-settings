@@ -11,10 +11,19 @@
 			"path": "/home/jwood/lview-2/jwood_pts_ce_bsdplatform/vobs/fw/application"
 		},
 		{
+			"path": "/home/jwood/lview-2/jwood_main/vobs/utils/clearcase/triggers/triggers"
+		},
+		{
 			"path": "/home/jwood/Desktop/tmp/testHarness"
 		},
 		{
+			"path": "/home/jwood/Desktop/testHarness"
+		},
+		{
 			"path": "/home/jwood/build_home/sandbox/svpcapmonitor"
+		},
+		{
+			"path": "/home/jwood/build_home/gotraffic"
 		},
 		{
 			"path": "/home/jwood"

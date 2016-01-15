@@ -17,6 +17,7 @@
 	[
 		"Makefile",
 		"Markdown",
+		"Uncrustify",
 		"Vintage"
 	],
 	"rulers":
