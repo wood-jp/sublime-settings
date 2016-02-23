@@ -1,6 +1,6 @@
 {
-    // "color_scheme": "Packages/Seti_UI/Scheme/Seti_orig.tmTheme",
-    "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+    // "color_scheme": "Packages/Seti_UI/Seti.sublime-theme",
+    "theme": "Seti.sublime-theme",
     "rulers": [],
     "word_wrap": true
 }

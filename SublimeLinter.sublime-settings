@@ -68,7 +68,7 @@
             },
             "xmllint": {
                 "@disable": false,
-                "args": [],
+                "args": ["--format"],
                 "excludes": []
             }
         },
